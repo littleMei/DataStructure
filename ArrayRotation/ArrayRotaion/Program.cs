@@ -41,8 +41,11 @@ namespace ArrayRotaion
             int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
             Console.WriteLine("Array before rotate:");
             printArray(arr, 7);
-        
-            leftRotate(arr, 2, 7);
+
+            // choose which method to use.
+            Method3 m3 = new Method3();
+            m3.leftRotate(arr, 2, 7);
+
             Console.WriteLine("Array after rotate:");
             printArray(arr, 7);
 
