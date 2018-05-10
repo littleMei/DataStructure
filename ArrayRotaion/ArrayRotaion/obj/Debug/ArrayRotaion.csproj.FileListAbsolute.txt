@@ -1,0 +1,7 @@
+C:\Users\d.luo\Source\Repos\DataStructure\ArrayRotaion\ArrayRotaion\bin\Debug\ArrayRotaion.exe.config
+C:\Users\d.luo\Source\Repos\DataStructure\ArrayRotaion\ArrayRotaion\bin\Debug\ArrayRotaion.exe
+C:\Users\d.luo\Source\Repos\DataStructure\ArrayRotaion\ArrayRotaion\bin\Debug\ArrayRotaion.pdb
+C:\Users\d.luo\Source\Repos\DataStructure\ArrayRotaion\ArrayRotaion\obj\Debug\ArrayRotaion.csprojResolveAssemblyReference.cache
+C:\Users\d.luo\Source\Repos\DataStructure\ArrayRotaion\ArrayRotaion\obj\Debug\ArrayRotaion.csproj.CoreCompileInputs.cache
+C:\Users\d.luo\Source\Repos\DataStructure\ArrayRotaion\ArrayRotaion\obj\Debug\ArrayRotaion.exe
+C:\Users\d.luo\Source\Repos\DataStructure\ArrayRotaion\ArrayRotaion\obj\Debug\ArrayRotaion.pdb
